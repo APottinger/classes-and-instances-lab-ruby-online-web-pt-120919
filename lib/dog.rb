@@ -2,7 +2,7 @@ class Dog
   
 end
 
-sparky = Dog.new
+fido = Dog.new
 snoopy = Dog.new
-scooby = Dog.new
+lassie = Dog.new
   
